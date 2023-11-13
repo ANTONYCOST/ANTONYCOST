@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil  👋    
 
-<!--
-**ANTONYCOST/ANTONYCOST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Antony 
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo 📫
+
+antony.silva.costa@escola.pr.gov.br
+
+@antony1601
+
+![image](https://github.com/ANTONYCOST/ANTONYCOST/assets/149424624/78cc3df0-976f-4458-b9f6-523606c753cf)
